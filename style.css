@@ -33,4 +33,9 @@ a:active{
 	top: 6px;
 }
 
+img {
+	height: 800px;
+	width: 1280px;
+}
+
 /* click the button and see what happens! */
